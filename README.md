@@ -1,4 +1,6 @@
-# practica-crud
+# The countries App
+
+### For more information about the API check [Here](https://restcountries.eu/)
 
 ## Project setup
 ```
